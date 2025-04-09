@@ -1,0 +1,12 @@
+[
+  {
+    "device": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X)",
+    "name": "Айдана",
+    "discount": "20%"
+  },
+  {
+    "device": "Mozilla/5.0 (Linux; Android 13; SM-A525F)",
+    "name": "Алия",
+    "discount": "20%"
+  }
+]
