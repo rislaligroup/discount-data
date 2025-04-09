@@ -1,17 +1,12 @@
 [
   {
     "visitorId": "2fdbb708e05973100c45b1dc34a4d46e",
-    "name": "Саня айфон",
-    "discount": "10%"
+    "name": "Саша айфон",
+    "discount": "15%"
   },
   {
-    "visitorId": "1234567890abcdef1234567890abcdef",
-    "name": "Алия Ахметова",
-    "discount": "15%"
-  },
-    {
     "visitorId": "2760889d8a475a8c9e154a95a196a4b0",
-    "name": "Саня макбук",
-    "discount": "15%"
+    "name": "Саша макбук",
+    "discount": "10%"
   }
 ]
