@@ -1,12 +1,12 @@
 [
   {
-    "device": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X)",
-    "name": "Айдана",
-    "discount": "20%"
+    "visitorId": "2fdbb708e05973100c45b1dc34a4d46e",
+    "name": "Иван Петров",
+    "discount": "10%"
   },
   {
-    "device": "Mozilla/5.0 (Linux; Android 13; SM-A525F)",
-    "name": "Алия",
-    "discount": "20%"
+    "visitorId": "1234567890abcdef1234567890abcdef",
+    "name": "Алия Ахметова",
+    "discount": "15%"
   }
 ]
